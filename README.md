@@ -1,7 +1,7 @@
 Infix'ten Postfix'e Dönüşüm (Shunting Yard Algoritması): <br /> İnsanın okuyabildiği matematiksel ifadeyi (3 + 4) <br /> 
 bilgisayarın daha rahat işlem yapabileceği sıraya (3 \ 4 \ +) dizmek. <br />
 Postfix İfadenin Hesaplanması: Dönüştürülen ifadeyi yığıt (stack) kullanarak çözmek. <br /> <br />
-1. Algoritma Mantığı
+<b>Algoritma Mantığı</b>
 Bu işlem için Yığıt (Stack) veri yapısı hayati önem taşır.
 
 Öncelik Sırası: <br />
